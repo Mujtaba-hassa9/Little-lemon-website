@@ -1,0 +1,25 @@
+.reviews-section{
+    background-color: #495e57;
+    height: 40em;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+}
+.review-text {
+    /* font-family: ; */
+    font-size: 3rem;
+    line-height: 1.5;
+    height: 12rem;
+}
+.review-img {
+    width: 6%;
+    border-radius: 100%;
+    margin: 20px;
+    background-color: white;
+}
+.slider {
+    padding: 7% 15%;
+}
+.carousel-indicators {
+    display: none;
+}
